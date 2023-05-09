@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Anything relative to programming**
 
-- 📫 How to reach me **bensaidanas0@gmail.com**
+- 📫 How to reach me **bensaidanass9@gmail.com**
 
-- ⚡ Fun fact **I Love Computers**
+- ⚡ Fun fact **I rreading manga and watching anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
