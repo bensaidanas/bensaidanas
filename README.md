@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Bensaid</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **Next.js 13**
+- 🌱 I’m currently learning **Next.js 13 & Java Android**
 
 - 👨‍💻 All of my projects are available at [bensaid.vercel.app](bensaid.vercel.app)
 
