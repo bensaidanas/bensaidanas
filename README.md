@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bensaidanass9@gmail.com**
 
-- ⚡ Fun fact **I love reading manga and watch anime**
+- ⚡ Fun fact **I love reading manga**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
