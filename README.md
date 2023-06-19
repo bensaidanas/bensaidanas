@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js 13 & Java Android**
 
-- 👨‍💻 All of my projects are available at [bensaid.vercel.app](bensaid.vercel.app)
+- 👨‍💻 All of my projects are available at [http://bensaid.vercel.app](bensaid.vercel.app)
 
 - 💬 Ask me about **Anything relative to programming**
 
