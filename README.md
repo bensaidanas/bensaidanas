@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Anas Bensaid</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack engineer</h3>
 
 - 🌱 I’m currently learning **Next.js 13 & Spring Boot 3.0**
 
