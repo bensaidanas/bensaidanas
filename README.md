@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Anas Bensaid</h1>
 <h3 align="center">A passionate full-stack engineer</h3>
 
-- 🌱 I’m currently learning **Next.js 13 & Spring Boot 3.0**
+- 🌱 I’m currently learning **Microservices with Spring Boot 3.0**
 
 - 👨‍💻 All of my projects are available at [bensaid.vercel.app](http://bensaid.vercel.app)
 
